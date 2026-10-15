@@ -1,0 +1,5 @@
+job_id,company,role,branch,min_cgpa,package,skills,location
+JOB001,ExampleTech,Python Developer,CSE,7.0,6.5,"Python, SQL, Git",Gurugram
+JOB002,DataWorks,ML Intern,AIML,7.5,8.0,"Python, Machine Learning, NumPy",Remote
+JOB003,CodeBridge,Software Engineer,CSE,8.0,7.5,"C++, DSA, Python",Noida
+JOB004,WebNest,Frontend Developer,IT,6.5,4.5,"HTML, CSS, JavaScript",Delhi

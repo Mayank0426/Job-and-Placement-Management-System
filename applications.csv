@@ -1,0 +1,5 @@
+application_id,student_id,job_id,date,status,match_score
+APP001,STU001,JOB001,2026-10-10,Applied,100.0
+APP002,STU002,JOB002,2026-10-11,Shortlisted,100.0
+APP003,STU003,JOB003,2026-10-12,Interview,100.0
+APP004,STU004,JOB004,2026-10-13,Selected,100.0

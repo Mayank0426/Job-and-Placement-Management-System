@@ -1,0 +1,5 @@
+student_id,name,branch,cgpa,skills,graduation_year
+STU001,Sample Student A,CSE,8.4,"Python, SQL, Git",2027
+STU002,Sample Student B,AIML,7.8,"Python, Machine Learning, NumPy",2027
+STU003,Sample Student C,CSE,9.1,"C++, DSA, Python",2028
+STU004,Sample Student D,IT,7.2,"HTML, CSS, JavaScript",2027
